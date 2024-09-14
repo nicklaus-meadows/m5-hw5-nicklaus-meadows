@@ -1,0 +1,18 @@
+
+header, h1, nav, a {
+display: inline-block;
+
+}
+
+nav, a {
+    margin-left: 200px;
+    
+}
+
+#nickphoto {
+    max-width: 20%;
+}
+
+h5 {
+    text-align: center;
+}
