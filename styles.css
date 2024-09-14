@@ -1,18 +1,41 @@
 
+html {
+    margin: 15px 25px ;
+} 
+
+body {
+    max-width: 800px;
+    margin: auto;
+
+}
+
 header, h1, nav, a {
 display: inline-block;
 
+
 }
 
-nav, a {
-    margin-left: 200px;
-    
+#navbar {
+    padding-left: 360px;
 }
 
 #nickphoto {
-    max-width: 20%;
+    max-width: 25%;
+    float: left;
+    padding-right: 15px;
+    padding-bottom: 15px;
 }
 
 h5 {
     text-align: center;
 }
+
+#aboutMe {
+    border-bottom: thin solid black;
+    
+}
+
+#part1About {
+    font-size: large;
+}
+
