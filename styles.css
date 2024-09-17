@@ -69,6 +69,7 @@ footer {
 #linkedin, #soverflow, #github {
     width: 15%;
     margin-left: 10px;
+    
 }
 
 #connect span {
@@ -102,5 +103,10 @@ main {
     width: 60%;
 }
 
+
+a {
+    display: inline;
+
+}
 
 
